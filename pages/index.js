@@ -84,7 +84,7 @@ function Home({ messages }) {
     return (
       <div className={styles.background}>
         <div className={styles.container}>
-          <h1 className={styles.title}> AWS Amplify Live Chat</h1>
+          <h1 className={styles.title}> messengerlux</h1>
           <div className={styles.chatbox}>
             {stateMessages
               // sort messages oldest to newest client-side
